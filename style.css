@@ -1,0 +1,38 @@
+h1 {
+    font-size: 40px;
+color: #A52A2A;
+font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+.cat-menu {
+color: dimgray;
+font-size: 18px;
+}
+
+li {
+    color: #A52A2A;
+}
+
+h2 {
+    color: dimgray;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+h3 {
+    color: #A52A2A;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+p {
+    font-size: 18px;
+}
+
+header {
+    margin: 10px;
+    padding: 10px;
+    border-bottom: 2px solid dimgray;
+}
+
+body {
+    background-color: #FAF9F6;
+}
